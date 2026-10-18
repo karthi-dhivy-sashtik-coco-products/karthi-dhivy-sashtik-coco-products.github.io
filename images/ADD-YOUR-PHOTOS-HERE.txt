@@ -1,0 +1,4 @@
+Photos used by the website. To change a photo, save a new image over the file with the same name (JPG, about 1200 px wide, under 300 KB).
+Included: hero.jpg, about.jpg, cocopeat-blocks.jpg, loose-cocopeat.jpg, coir-fibre.jpg, why-us.jpg
+Still to add (drawings show until you do): grow-bags.jpg, husk-chips.jpg
+Use only photos you took yourself or photos whose licence allows commercial use.
